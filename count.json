@@ -1,0 +1,307 @@
+{
+  "897738216": {
+    "chat_id": "897738216",
+    "user_name": "stagVII",
+    "score": 8,
+    "completed_levels": [
+      "level_2",
+      "level_1",
+      "level_14",
+      "level_8",
+      "level_4",
+      "level_18",
+      "level_21",
+      "level_31"
+    ],
+    "mistake_words": [
+      "come",
+      "do",
+      "make",
+      "sad",
+      "tired",
+      "hungry",
+      "difficult",
+      "interesting",
+      "work",
+      "job",
+      "money",
+      "car",
+      "bus",
+      "train",
+      "same",
+      "different",
+      "again",
+      "travel",
+      "map",
+      "cost",
+      "sell",
+      "market",
+      "buy"
+    ],
+    "mistake_counts": {
+      "house": 1,
+      "room": 1,
+      "come": 1,
+      "do": 1,
+      "make": 1,
+      "sad": 1,
+      "tired": 1,
+      "hungry": 1,
+      "difficult": 1,
+      "interesting": 1,
+      "work": 1,
+      "job": 1,
+      "money": 1,
+      "car": 2,
+      "bus": 1,
+      "train": 1,
+      "same": 1,
+      "different": 1,
+      "again": 1,
+      "travel": 1,
+      "map": 1,
+      "cost": 2,
+      "sell": 2,
+      "market": 1,
+      "buy": 1
+    },
+    "last_active": null,
+    "daily_reminder": "09:13",
+    "marked_words": [
+      "car",
+      "please",
+      "different"
+    ],
+    "lang": "fa"
+  },
+  "7476907990": {
+    "chat_id": "7476907990",
+    "user_name": "mmd",
+    "score": 0,
+    "completed_levels": [],
+    "mistake_words": [],
+    "mistake_counts": {},
+    "last_active": null,
+    "lang": "fa",
+    "daily_reminder": "01:23"
+  },
+  "358115693": {
+    "chat_id": "358115693",
+    "user_name": "𝓞𝓵𝓭 𓂀𝓐𝓵𝓲",
+    "score": 1,
+    "completed_levels": [
+      "level_18"
+    ],
+    "mistake_words": [
+      "old",
+      "slow",
+      "no"
+    ],
+    "mistake_counts": {
+      "old": 1,
+      "slow": 1,
+      "no": 1
+    },
+    "last_active": null
+  },
+  "1404741015": {
+    "chat_id": "1404741015",
+    "user_name": "‌~",
+    "score": 2,
+    "completed_levels": [
+      "level_1",
+      "level_11"
+    ],
+    "mistake_words": [],
+    "mistake_counts": {},
+    "last_active": null
+  },
+  "6526523104": {
+    "chat_id": "6526523104",
+    "user_name": "Amir Hossein Izanlo",
+    "score": 0.0,
+    "completed_levels": [],
+    "mistake_words": [],
+    "mistake_counts": {},
+    "last_active": null
+  },
+  "6813354047": {
+    "chat_id": "6813354047",
+    "user_name": "UNKNOWN",
+    "score": 0.0,
+    "completed_levels": [],
+    "mistake_words": [],
+    "mistake_counts": {},
+    "last_active": null
+  },
+  "6489129895": {
+    "chat_id": "6489129895",
+    "user_name": "𝓡",
+    "score": 0.0,
+    "completed_levels": [],
+    "mistake_words": [],
+    "mistake_counts": {},
+    "last_active": null
+  },
+  "6023912897": {
+    "chat_id": "6023912897",
+    "user_name": "Amiri",
+    "score": 0.0,
+    "completed_levels": [],
+    "mistake_words": [],
+    "mistake_counts": {},
+    "last_active": null,
+    "lang": "fa"
+  },
+  "6792099507": {
+    "chat_id": "6792099507",
+    "user_name": "mary🐾",
+    "score": 11,
+    "completed_levels": [
+      "level_1",
+      "level_2",
+      "level_3",
+      "level_4",
+      "level_5",
+      "level_6",
+      "level_7",
+      "level_8",
+      "level_9",
+      "level_10",
+      "level_11"
+    ],
+    "mistake_words": [
+      "afraid",
+      "busy"
+    ],
+    "mistake_counts": {
+      "afraid": 1,
+      "busy": 1
+    },
+    "last_active": null,
+    "daily_reminder": "21:00",
+    "lang": "fa"
+  },
+  "8374034731": {
+    "chat_id": "8374034731",
+    "user_name": "Amin",
+    "score": 2,
+    "completed_levels": [
+      "level_6",
+      "level_17"
+    ],
+    "mistake_words": [],
+    "mistake_counts": {},
+    "last_active": null,
+    "daily_reminder": null,
+    "marked_words": [],
+    "lang": "fa"
+  },
+  "2113160829": {
+    "chat_id": "2113160829",
+    "user_name": "Amirali",
+    "score": 0.0,
+    "completed_levels": [],
+    "mistake_words": [],
+    "mistake_counts": {},
+    "last_active": null,
+    "daily_reminder": null,
+    "marked_words": []
+  },
+  "444782380": {
+    "chat_id": "444782380",
+    "user_name": "Ehsan🌵",
+    "score": 1,
+    "completed_levels": [
+      "level_1"
+    ],
+    "mistake_words": [],
+    "mistake_counts": {},
+    "last_active": null,
+    "daily_reminder": null,
+    "marked_words": [],
+    "lang": "fa"
+  },
+  "922292645": {
+    "chat_id": "922292645",
+    "user_name": "Diyako",
+    "score": 3,
+    "completed_levels": [
+      "level_1",
+      "level_2",
+      "level_3"
+    ],
+    "mistake_words": [],
+    "mistake_counts": {},
+    "last_active": null,
+    "daily_reminder": null,
+    "marked_words": [],
+    "lang": "fa"
+  },
+  "1832894215": {
+    "chat_id": "1832894215",
+    "user_name": "STAG",
+    "score": 0.0,
+    "completed_levels": [],
+    "mistake_words": [],
+    "mistake_counts": {},
+    "last_active": null,
+    "daily_reminder": null,
+    "marked_words": [],
+    "lang": "fa"
+  },
+  "6087545683": {
+    "chat_id": "6087545683",
+    "user_name": "M",
+    "score": 1,
+    "completed_levels": [
+      "level_21"
+    ],
+    "mistake_words": [],
+    "mistake_counts": {},
+    "last_active": null,
+    "daily_reminder": null,
+    "marked_words": [],
+    "lang": "fa"
+  },
+  "-4263181047": {
+    "chat_id": "-4263181047",
+    "user_name": "stagVII",
+    "score": 0.0,
+    "completed_levels": [],
+    "mistake_words": [],
+    "mistake_counts": {},
+    "last_active": null,
+    "daily_reminder": null,
+    "marked_words": [],
+    "lang": "fa"
+  },
+  "83420129": {
+    "chat_id": "83420129",
+    "user_name": "Pourya",
+    "score": 1,
+    "completed_levels": [
+      "level_1"
+    ],
+    "mistake_words": [],
+    "mistake_counts": {},
+    "last_active": null,
+    "daily_reminder": null,
+    "marked_words": [],
+    "lang": "fa"
+  },
+  "5804016976": {
+    "chat_id": "5804016976",
+    "user_name": "Heydar",
+    "score": 0.0,
+    "completed_levels": [],
+    "mistake_words": [],
+    "mistake_counts": {},
+    "last_active": null,
+    "daily_reminder": null,
+    "marked_words": [
+      "usually"
+    ],
+    "lang": "fa"
+  }
+}
